@@ -24,5 +24,5 @@ Light            |  Dark |  Details
 
 ### Project Requirements
 * iOS 13.0+
-* Xcode 13+
+* Xcode 14+
 * Swift 5.0+
